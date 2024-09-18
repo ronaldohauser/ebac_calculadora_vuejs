@@ -1,24 +1,15 @@
-# calculadora-vue
+# Calculadora Vue.js
 
-## Project setup
-```
-npm install
-```
+Uma calculadora simples construída com Vue.js. Este projeto demonstra como criar uma interface de usuário interativa e responsiva utilizando Vue.js.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Funcionalidades
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- **Operações Básicas:** Adição, subtração, multiplicação e divisão.
+- **Reatividade:** Atualiza o resultado conforme as entradas do usuário e a operação selecionada.
+- **Estilo Simples:** Interface moderna e limpa com estilização em CSS.
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Tecnologias
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- **Vue.js:** Framework JavaScript para criar interfaces de usuário reativas.
+- **HTML5:** Estrutura básica da página.
+- **CSS3:** Estilização e design da calculadora.
